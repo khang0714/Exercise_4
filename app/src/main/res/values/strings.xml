@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise_4</string>
+    <string name="date_of_birth">Date of Birth :</string>
+    <string name="pick_date">Pick</string>
+    <string name="age">Age :</string>
+    <string name="min_basic_saving">Minimum Basic Saving (RM) :</string>
+    <string name="allowance_investment">Allowance Investment Amount (RM) :</string>
+</resources>
